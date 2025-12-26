@@ -193,7 +193,7 @@ export default function Home() {
         <section className="relative w-full overflow-hidden bg-white px-6 py-24 sm:px-10 md:px-14 lg:px-20 min-h-[620px]">
           <div className="absolute inset-0 min-h-[600px]">
             <Image
-              src="/Group.png"
+              src="/Group (1).png"
               alt="Board for Members 背景"
               fill
               className="object-cover"
