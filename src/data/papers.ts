@@ -1,0 +1,98 @@
+export const papers = [
+  {
+    title: "自動車エアコンにおける炭化水素冷媒の使用に関する安全性報告書",
+    size: "7.46 MB",
+    src: "/info/スクリーンショット 2025-10-22 12.16.12 1 (1).png",
+    href: "https://hychill.com.au/media/pages/info/18e0e48e76-1578467763/granherne_report_sm.pdf",
+  },
+  {
+    title: "AEAN - HyChill GM が応答",
+    size: "1.62 MB",
+    src: "/info/スクリーンショット 2025-10-22 12.24.02 1 (1).png",
+    href: "https://hychill.com.au/media/pages/info/60853f3d45-1578467756/AAEN-hychill-GM-responds.pdf",
+  },
+  {
+    title: "冷徹な事実２：オーストラリアの冷凍空調産業の調査",
+    size: "3.86 MB",
+    src: "/info/スクリーンショット 2025-10-22 12.32.21 1.png",
+    href: "https://hychill.com.au/media/pages/info/0761d000e8-1578467762/cold-hard-facts2.pdf",
+  },
+  {
+    title: "炭化水素冷媒の性能比較。",
+    size: "120.11 KB",
+    src: "/info/スクリーンショット 2025-10-22 12.50.13 1.png",
+    href: "https://hychill.com.au/media/pages/info/e51b11a1df-1578467762/cpohcr.pdf",
+  },
+  {
+    title: "炭化水素冷媒を使用したエアコン - 省エネとコスト削減",
+    size: "535.72 KB",
+    src: "/info/スクリーンショット 2025-10-22 12.56.08 1.png",
+    href: "https://hychill.com.au/media/pages/info/1e6df80124-1578467762/godrej-profile-5nov14.pdf",
+  },
+  {
+    title: "室内エアコン製造における可燃性冷媒の安全使用に関するガイドライン",
+    size: "2.06 MB",
+    src: "/info/スクリーンショット 2025-10-22 13.01.57 1.png",
+    href: "https://hychill.com.au/media/pages/info/eb36a5caeb-1578467762/giz2012-en-guidelines-safety-ac-production-r290.pdf",
+  },
+  {
+    title: "HVAC改革：バランスのとれたアプローチ",
+    size: "565.46 KB",
+    src: "/info/スクリーンショット 2025-10-22 13.07.44 1.png",
+    href: "https://hychill.com.au/media/pages/info/bcbceb14e2-1578467763/hvac_refrigerants.pdf",
+  },
+  {
+    title: "商業用冷蔵における低 GWP 代替品",
+    size: "1.31 MB",
+    src: "/info/スクリーンショット 2025-10-22 13.12.10 1.png",
+    href: "https://hychill.com.au/media/pages/info/066752fa9a-1578467763/low-gwp_alternatives_in_commercial_refrigeration-case_studies-final.pdf",
+  },
+  {
+    title: "HFC代替品のエネルギー効率の相乗効果",
+    size: "1.24 MB",
+    src: "/info/スクリーンショット 2025-10-22 13.18.11 1.png",
+    href: "https://hychill.com.au/media/pages/info/acfd3dcd61-1578467762/energy-efficiency-co-benefits-of-alternatives-to-hfcs.pdf",
+  },
+  {
+    title: "HFCの凍結",
+    size: "2.71 MB",
+    src: "/info/スクリーンショット 2025-10-22 13.27.41 1.png",
+    href: "https://hychill.com.au/media/pages/info/72c4c39966-1578467763/putting_the_freeze_on_hfcs_final.pdf",
+  },
+  {
+    title: "炭化水素冷媒を使用したスプリットエアコンシステムの操作",
+    size: "6.32 MB",
+    src: "/info/スクリーンショット 2025-10-22 13.31.02 1.png",
+    href: "https://hychill.com.au/media/pages/info/f5662828ce-1578467762/giz-split-ac-hc-conversion-guide.pdf",
+  },
+  {
+    title: "炭化水素冷媒の安全使用に関するガイドライン",
+    size: "7.75 MB",
+    src: "/info/スクリーンショット 2025-10-22 13.42.10 1.png",
+    href: "https://hychill.com.au/media/pages/info/524e6050c5-1578467763/gtz-hydrocarbon-refrigerants-guidelines-safety.pdf",
+  },
+  {
+    title: "HC_Japan代理店様向け資料",
+    size: "—",
+    src: "/info/スクリーンショット 2025-10-22 14.07.23 1.png",
+    href: "/info/スクリーンショット 2025-10-22 14.07.23 1.png",
+  },
+  {
+    title: "オゾン層と地球の気候システムの保護：冷凍",
+    size: "3.38 MB",
+    src: "/info/スクリーンショット 2025-10-22 14.10.23 1.png",
+    href: "https://hychill.com.au/media/pages/info/c22fed3358-1578467763/sroc04.pdf",
+  },
+  {
+    title: "HC_Japan代理店様向け資料",
+    size: "—",
+    src: "/info/スクリーンショット 2025-10-22 14.15.54 1.png",
+    href: "/info/スクリーンショット 2025-10-22 14.15.54 1.png",
+  },
+  {
+    title: "会社紹介_HCジャパン2510",
+    size: "—",
+    src: "/info/スクリーンショット 2025-10-22 14.17.51 1.png",
+    href: "/info/スクリーンショット 2025-10-22 14.17.51 1.png",
+  },
+];
