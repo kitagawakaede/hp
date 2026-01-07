@@ -69,7 +69,7 @@ export default function InfoPage() {
               style={{ left: "25%", width: "75%", minWidth: "calc(100% - 120px)" }}
             >
               <Image
-                src="/Mask group (6).png"
+                src="/IMG_3036.png"
                 alt="情報ページ背景"
                 fill
                 className="object-cover origin-center"
@@ -82,7 +82,7 @@ export default function InfoPage() {
           <div className="relative mx-auto flex h-full w-full max-w-[1600px] items-end px-0 pt-56 pb-36 sm:px-4 lg:px-4">
             <div className="flex flex-col gap-5 text-white ">
               <h1 className="text-[68px] font-semibold leading-[1.05] sm:text-[78px]">
-                Info
+              Bulletin Board
               </h1>
               <p className="text-[38px] sm:text-[42px]">製品情報</p>
             </div>
