@@ -69,7 +69,7 @@ export default function InfoPage() {
               style={{ left: "25%", width: "75%", minWidth: "calc(100% - 120px)" }}
             >
               <Image
-                src="/IMG_3036.png"
+                src="/IMG_3036.jpg"
                 alt="情報ページ背景"
                 fill
                 className="object-cover origin-center"
