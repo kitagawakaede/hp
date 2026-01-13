@@ -194,7 +194,7 @@ export default function Home() {
           <div className="absolute inset-0 min-h-[600px]">
             <Image
               src="/Group (1).png"
-              alt="Board for Members 背景"
+              alt="Bulletin board 背景"
               fill
               className="object-cover"
               priority
@@ -203,7 +203,7 @@ export default function Home() {
           </div>
           <div className="relative mx-auto flex w-full max-w-[1200px] flex-col items-start gap-10 mt-16 px-4 sm:px-0">
             <div className="flex flex-col gap-4 text-white">
-              <h2 className="text-[48px] font-semibold leading-[1.1] sm:text-[65px]">Board for Members</h2>
+              <h2 className="text-[48px] font-semibold leading-[1.1] sm:text-[65px]">Bulletin board</h2>
               <div className="flex items-center gap-3 text-[20px] sm:text-[22px]">
                 <span className="h-px w-12 bg-white/70" aria-hidden="true" />
                 <span>会員向け掲示板</span>

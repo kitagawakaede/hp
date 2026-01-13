@@ -21,7 +21,7 @@ export default function FooterSection() {
               Company
             </a>
             <a className="hover:text-[#1f6bb2]" href="#">
-              Board for Members
+              Bulletin board
             </a>
             <a className="hover:text-[#1f6bb2]" href="/info">
               Info

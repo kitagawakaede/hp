@@ -32,7 +32,7 @@ export default function CompanyPage() {
           <div className="relative mx-auto flex h-full w-full max-w-[1600px] items-end px-0 pt-56 pb-36 sm:px-4 lg:px-4">
             <div className="flex flex-col gap-5 text-white ">
               <h1 className="text-[68px] font-semibold leading-[1.05] sm:text-[78px]">
-                Campany
+                Company
               </h1>
               <p className="text-[28px] font-semibold sm:text-[30px]">
                 Natural Refrigerants Promotion Council

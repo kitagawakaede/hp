@@ -3,5 +3,5 @@ export const navItems = [
   { label: "Company", href: "/company" },
   { label: "Info", href: "/info" },
   { label: "News", href: "/news" },
-  { label: "Board for Members", href: "#" },
+  { label: "Bulletin board", href: "#" },
 ];
